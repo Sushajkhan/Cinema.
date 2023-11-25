@@ -12,7 +12,7 @@ const Genres = ({ data }) => {
                 if (!genres[g]?.name) return;
                 return (
                     <div key={g} className="genre">
-                        {genres[g]?.name}
+                      <button className="btn">{genres[g]?.name}</button>  
                     </div>
                 );
             })}

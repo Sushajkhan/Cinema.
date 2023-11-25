@@ -52,6 +52,8 @@
         .genres {
             display: none;
             position: relative;
+            
+            
             @include md {
                 display: flex;
                 flex-flow: wrap;

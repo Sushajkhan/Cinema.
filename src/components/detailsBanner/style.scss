@@ -1,7 +1,9 @@
 @import "../../mixins.scss";
+
+
 .detailsBanner {
     width: 100%;
-    background-color: var(--white);
+    background-color: black;
     padding-top: 100px;
     margin-bottom: 50px;
     @include md {
@@ -63,7 +65,7 @@
             }
         }
         .right {
-            color: black;
+            color: white;
 
             .title {
                 font-size: 28px;
@@ -93,6 +95,15 @@
             .genres {
                 margin-bottom: 25px;
                 flex-flow: row wrap;
+
+        //         .btn{
+        //         background-color: var(--red);
+        //         color: white;
+        //         border: none;
+        //     border-radius: 10px;
+        // width: 56px;
+        // height:23px;
+        // }
             }
             .overview {
                 margin-bottom: 25px;
@@ -147,17 +158,17 @@
                 }
                 &:hover {
                     .text {
-                        color: var(--pink);
+                        color: var(--red);
                     }
                     .triangle {
                         stroke-dashoffset: 0;
                         opacity: 1;
-                        stroke: var(--pink);
-                        animation: trailorPlay 0.7s ease-in-out;
+                        stroke: var(--red);
+                        // animation: trailorPlay 0.7s ease-in-out;
                     }
                     .circle {
                         stroke-dashoffset: 0;
-                        stroke: var(--pink);
+                        stroke: var(--red);
                     }
                 }
             }

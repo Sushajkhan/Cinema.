@@ -41,7 +41,7 @@ const DetailsBanner = ({ video, crew }) => {
             {!loading ? (
                 <>
                     {!!data && (
-                        <React.Fragment>
+                        <>
                             <div className="backdrop-img">
                                 <Img src={url.backdrop + data.backdrop_path} />
                             </div>
@@ -210,7 +210,7 @@ const DetailsBanner = ({ video, crew }) => {
                                     setVideoId={setVideoId}
                                 />
                             </ContentWrapper>
-                        </React.Fragment>
+                        </>
                     )}
                 </>
             ) : (
