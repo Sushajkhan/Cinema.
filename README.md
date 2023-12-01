@@ -31,6 +31,7 @@
 * Redux
 * Axios
 * Sass
+* TMDB 
 
 
 <!-- GETTING STARTED -->
