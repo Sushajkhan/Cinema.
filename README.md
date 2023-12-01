@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Sushajkhan/Screen">
-    <img src="/assets/cinema.png" alt="Logo" width="80" height="80">
+    <img src="./assets/cinema.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Cinema.</h3>
