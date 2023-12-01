@@ -23,7 +23,7 @@
 
 ## About The Project
 
- <img src="images/preview.png" alt="preview"
+ <img src="images/preview.png" alt="preview"/>
 
  ### Built With
 
@@ -93,4 +93,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Sushajkhan -  - sushajkhan@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Sushajkhan/Screen](https://github.com/Sushajkhan/Screen)
