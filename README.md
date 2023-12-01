@@ -23,7 +23,7 @@
 
 ## About The Project
 
- <img src="images/preview.png" alt="preview"/>
+ <img src="src/assets/preview.png" alt="preview"/>
 
  ### Built With
 
